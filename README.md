@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @NoelSumbe
+- 👀 I’m interested in Web Development and all things tech...
+- 🌱 I’m currently learning Web Development course by Angela Yu...
+- 📫 You can currently only reach me through GitHub...
+
+<!---
+NoelSumbe/NoelSumbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
